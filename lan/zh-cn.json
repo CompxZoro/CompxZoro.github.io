@@ -26,23 +26,23 @@
             "label":"按键",
             "children":[
                 {
-                    "value":"1",
+                    "value":"0x0100",
                     "label":"左键"
                 },
                 {
-                    "value":"2",
+                    "value":"0x0200",
                     "label":"右键"
                 },
                 {
-                    "value":"4",
+                    "value":"0x0400",
                     "label":"中键"
                 },
                 {
-                    "value":"8",
+                    "value":"0x0800",
                     "label":"后退键"
                 },
                 {
-                    "value":"16",
+                    "value":"0x1000",
                     "label":"前进键"
                 }
             ]
@@ -52,15 +52,15 @@
             "label":"DPI切换",
             "children":[
                 {
-                    "value":"1",
+                    "value":"0x0100",
                     "label":"DPI循环"
                 },
                 {
-                    "value":"2",
+                    "value":"0x0200",
                     "label":"DPI+"
                 },
                 {
-                    "value":"3",
+                    "value":"0x0300",
                     "label":"DPI-"
                 }
             ]
@@ -70,11 +70,11 @@
             "label":"滚轮左/右摇摆",
             "children":[
                 {
-                    "value":"1",
+                    "value":"0x0100",
                     "label":"滚轮左摆"
                 },
                 {
-                    "value":"2",
+                    "value":"0x0200",
                     "label":"滚轮右摆"
                 }
             ]
@@ -127,7 +127,6 @@
                     "value":"0x0192",
                     "label":"计算器"
                 },
- 
                 {
                     "value":"0x0194",
                     "label":"我的电脑"
@@ -159,14 +158,6 @@
                 {
                     "value":"0x022A",
                     "label":"收藏夹"
-                },
-                {
-                    "value":"0x018A",
-                    "label":"邮件"
-                },
-                {
-                    "value":"0x0192",
-                    "label":"计算器"
                 }
             ]
         }   
@@ -226,6 +217,21 @@
         {
             "value":"120",
             "option":"20分钟"
+        }
+    ],
+    "DPIEffect":"灯光模式",
+    "DPIEffectOption":[
+        {
+            "value":"0",
+            "option":"关闭"
+        },
+        {
+            "value":"1",
+            "option":"常亮"
+        },
+        {
+            "value":"2",
+            "option":"呼吸"
         }
     ],
     "LightMode":"灯光模式",
