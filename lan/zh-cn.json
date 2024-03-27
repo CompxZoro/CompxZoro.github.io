@@ -2,6 +2,7 @@
     "Language":"简体中文",
     "Welcome":"欢迎来到Compx Game Mouse",
     "SelectDevice":"点击你需要配置的设备",
+    "Version":"驱动版本",
     "ProfileOption":[
         {
             "value":"0",

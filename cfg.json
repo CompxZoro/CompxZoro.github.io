@@ -2,7 +2,8 @@
     "Opt": {    
             "Title":"Compx Game Mouse",
             "Web":"www.compx.com.cn",
-            "Lan": ["en","zh-cn"]
+            "Lan": ["en","zh-cn"],
+            "Version":"1.0.0.0"
     },
     "Dev":[
         {
